@@ -1,0 +1,3 @@
+C:\Users\Justin\Documents\3eightInteractive\DatMonstaGame\Source\DatMonstaGame\DatMonstaGame.Build.cs
+C:\Users\Justin\Documents\3eightInteractive\DatMonstaGame\Source\DatMonstaGame.Target.cs
+C:\Users\Justin\Documents\3eightInteractive\DatMonstaGame\Source\DatMonstaGameEditor.Target.cs
