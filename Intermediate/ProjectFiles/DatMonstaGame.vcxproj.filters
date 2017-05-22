@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\DatMonstaGame.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{795FCD19-341A-48CA-BB68-BBED2920C715}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\DatMonstaGame.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\DatMonstaGameEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{91A4A15E-402A-4CA7-9BCA-ADE0D2CBE97B}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\DatMonstaGame">
+			<UniqueIdentifier>{A174A23A-9B37-4143-932B-64B35E11C636}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\DatMonstaGame\DatMonstaGame.Build.cs">
+			<Filter>Source\DatMonstaGame</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\DatMonstaGame\DatMonstaGame.cpp">
+			<Filter>Source\DatMonstaGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\DatMonstaGame\DatMonstaGame.h">
+			<Filter>Source\DatMonstaGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\DatMonstaGame\DatMonstaGameGameModeBase.cpp">
+			<Filter>Source\DatMonstaGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\DatMonstaGame\DatMonstaGameGameModeBase.h">
+			<Filter>Source\DatMonstaGame</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
