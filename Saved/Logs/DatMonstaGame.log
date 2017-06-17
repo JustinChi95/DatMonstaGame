@@ -197,3 +197,306 @@ LogInit: Object subsystem initialized
 [2017.06.17-02.00.29:914][  1]LogAssetRegistry: Asset discovery search completed in 10.6247 seconds
 [2017.06.17-02.00.29:914][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
 [2017.06.17-02.00.29:914][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000027 seconds (updated 0 objects)
+[2017.06.17-02.01.54:556][643]LogSlate: Took 0.004002 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.06.17-02.05.46:596][ 49]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.06.17-02.05.46:767][ 49]LogSavePackage: Save=10.86ms
+[2017.06.17-02.05.46:767][ 49]LogSavePackage: Moving '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Saved/L_TestWorld0271108B49E9D3FB2207EAAB693EADE5.tmp' to '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/L_TestWorld.umap'
+[2017.06.17-02.05.46:774][ 49]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/L_TestWorld.umap
+[2017.06.17-02.05.46:774][ 49]LogFileHelpers: Saving map 'L_TestWorld' took 0.076
+[2017.06.17-02.05.53:123][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestWorld" FILE="../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/TestWorld.uasset" SILENT=true
+[2017.06.17-02.05.53:130][159]LogSavePackage: Save=4.49ms
+[2017.06.17-02.05.53:130][159]LogSavePackage: Moving '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Saved/TestWorld357EF6AE4C1FD067FB2FB3988C673D81.tmp' to '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/TestWorld.uasset'
+[2017.06.17-02.05.53:133][159]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/TestWorld.uasset
+[2017.06.17-02.05.53:142][159]Cmd: MAP LOAD FILE="../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/L_TestWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.06.17-02.05.53:143][159]LightingResults: New page: Lighting Build
+[2017.06.17-02.05.53:144][159]LoadErrors: New page: Loading map: L_TestWorld.umap
+[2017.06.17-02.05.53:145][159]MapCheck: New page: Map Check
+[2017.06.17-02.05.53:145][159]LightingResults: New page: Lighting Build
+[2017.06.17-02.05.53:157][159]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.06.17-02.05.53:157][159]LogAIModule: Creating AISystem for world L_TestWorld
+[2017.06.17-02.05.53:161][159]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.06.17-02.05.53:209][159]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.06.17-02.05.53:250][159]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 40.892ms to complete.
+[2017.06.17-02.05.53:251][159]LogFileHelpers: Loading map 'L_TestWorld' took 0.110
+[2017.06.17-02.06.05:704][791]LogSlate: Took 0.003732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.06.17-02.06.16:356][235]MapCheck: New page: Map Check
+[2017.06.17-02.06.16:389][235]LightingResults: New page: Lighting Build - Jun 16, 2017, 12:06:16 PM
+[2017.06.17-02.06.16:518][235]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.06.17-02.06.16:654][235]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.06.17-02.06.16:670][235]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.06.17-02.06.17:697][235]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.06.17-02.06.17:697][235]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10292
+[2017.06.17-02.06.19:164][235]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.06.17-02.06.19:164][235]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.06.17-02.06.19:164][235]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.06.17-02.06.19:164][235]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.06.17-02.06.19:164][235]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.06.17-02.06.19:164][235]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.06.17-02.06.19:308][235]LogEditorBuildUtils: Build time 0:02
+[2017.06.17-02.06.19:320][235]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.06.17-02.06.19:321][235]LogTemp:Display: Added material ShaderMap 0x000002CD80E54800 with Material 0x000002CDF19D7400 to ShaderMapsBeingCompiled
+[2017.06.17-02.06.19:325][235]LogTemp:Display: Kicking off shader compilation for FLightmassMaterialRenderer WorldGridMaterial, GameThreadShaderMap 0x000002CD80E54800
+[2017.06.17-02.06.19:329][235]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.06.17-02.06.19:330][235]LogTemp:Display: Added material ShaderMap 0x000002CD87FE3580 with Material 0x000002CDF19D6E00 to ShaderMapsBeingCompiled
+[2017.06.17-02.06.19:332][235]LogTemp:Display: Kicking off shader compilation for FLightmassMaterialRenderer WorldGridMaterial, GameThreadShaderMap 0x000002CD87FE3580
+[2017.06.17-02.06.20:166][236]LogTemp:Display: Finished compile of shader map 0x000002CD80E54800
+[2017.06.17-02.06.20:166][236]LogTemp:Display: Shader map FLightmassMaterialRenderer WorldGridMaterial complete, GameThreadShaderMap 0x000002CD80E54800, marking material FLightmassMaterialRenderer WorldGridMaterial as finished
+[2017.06.17-02.06.20:166][236]LogTemp:Display: Marking material as finished 0x000002CDF19D7400
+[2017.06.17-02.06.20:169][236]LogTemp:Display: Finished compile of shader map 0x000002CD87FE3580
+[2017.06.17-02.06.20:169][236]LogTemp:Display: Shader map FLightmassMaterialRenderer WorldGridMaterial complete, GameThreadShaderMap 0x000002CD87FE3580, marking material FLightmassMaterialRenderer WorldGridMaterial as finished
+[2017.06.17-02.06.20:169][236]LogTemp:Display: Marking material as finished 0x000002CDF19D6E00
+[2017.06.17-02.06.22:348][258]Job is a success!
+[2017.06.17-02.06.22:742][259]Lightmass on DESKTOP-3FUPTJC: 933 ms total, 105 ms importing, 17 ms setup, 269 ms photons, 513 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 3.43 sec total, 0 ms processing.
+[2017.06.17-02.06.22:862][259]LogStaticLightingSystem: Illumination: 6.38 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2017.06.17-02.06.22:862][259]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.06.17-02.06.22:862][259]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.06.17-02.06.23:167][259]DumpUnbuiltLightIteractions
+[2017.06.17-02.06.23:167][259]Lights with unbuilt interactions: 0
+[2017.06.17-02.06.23:167][259]
+[2017.06.17-02.06.23:168][259]Primitives with unbuilt interactions: 0
+[2017.06.17-02.06.23:174][260]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.06.17-02.06.23:174][260]MapCheck: New page: L_TestWorld - Jun 16, 2017, 12:06:23 PM
+[2017.06.17-02.06.23:216][260]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 42.07ms to complete.
+[2017.06.17-02.06.33:151][703]Cmd: DELETE
+[2017.06.17-02.06.33:151][703]Cmd: ACTOR DELETE
+[2017.06.17-02.06.33:151][703]LogEditorActor: Deleted Actor: SkyLight
+[2017.06.17-02.06.33:161][703]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.06.17-02.06.58:932][ 26]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.06.17-02.07.38:006][146]Cmd: DELETE
+[2017.06.17-02.07.38:006][146]Cmd: ACTOR DELETE
+[2017.06.17-02.07.38:007][146]LogEditorActor: Deleted Actor: PointLight
+[2017.06.17-02.07.38:016][146]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.06.17-02.07.43:838][480]Cmd: DELETE
+[2017.06.17-02.07.43:838][480]Cmd: ACTOR DELETE
+[2017.06.17-02.07.43:839][480]LogEditorActor: Deleted Actor: SkyLight
+[2017.06.17-02.07.43:848][480]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.06.17-02.08.04:675][646]LogEditorViewport: Clicking Background
+[2017.06.17-02.08.27:162][995]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2017.06.17-02.10.38:230][675]LogEditorViewport: Clicking Background
+[2017.06.17-02.11.21:728][ 65]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.06.17-02.14.03:903][490]LogEditorViewport: Clicking Background
+[2017.06.17-02.14.07:503][706]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2017.06.17-02.14.13:034][ 35]LogEditorViewport: Clicking Background
+[2017.06.17-02.14.54:478][439]LogEditorViewport: Clicking Background
+[2017.06.17-02.14.57:859][612]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.06.17-02.15.35:162][846]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight)
+[2017.06.17-02.15.45:098][438]LogEditorViewport: Clicking Background
+[2017.06.17-02.15.46:381][515]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2017.06.17-02.15.50:578][712]LogEditorViewport: Clicking Background
+[2017.06.17-02.15.52:845][848]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2017.06.17-02.15.59:591][120]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2017.06.17-02.16.03:192][311]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.06.17-02.16.05:807][450]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2017.06.17-02.16.10:957][701]LogEditorViewport: Clicking Background
+[2017.06.17-02.16.16:830][ 28]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.06.17-02.16.34:760][738]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2017.06.17-02.16.49:107][478]LogEditorViewport: Clicking Background
+[2017.06.17-02.17.15:686][813]MapCheck: New page: Map Check
+[2017.06.17-02.17.15:714][813]Cmd: MAP REBUILD ALLVISIBLE
+[2017.06.17-02.17.15:714][813]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.06.17-02.17.15:721][813]LightingResults: New page: Lighting Build - Jun 16, 2017, 12:17:15 PM
+[2017.06.17-02.17.15:730][813]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.06.17-02.17.15:735][813]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.06.17-02.17.15:735][813]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.06.17-02.17.15:736][813]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.06.17-02.17.15:736][813]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10292
+[2017.06.17-02.17.17:407][813]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.06.17-02.17.17:407][813]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.06.17-02.17.17:407][813]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.06.17-02.17.17:407][813]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.06.17-02.17.17:407][813]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.06.17-02.17.17:407][813]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.06.17-02.17.17:493][813]LogEditorBuildUtils: Build time 0:01
+[2017.06.17-02.17.18:612][835]Job is a success!
+[2017.06.17-02.17.18:844][837]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256) - 80 MB total VRAM
+[2017.06.17-02.17.18:844][837]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256) - 80 MB total VRAM
+[2017.06.17-02.17.18:844][837]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (G8, 256X64) - 80 MB total VRAM
+[2017.06.17-02.17.18:940][837]Lightmass on DESKTOP-3FUPTJC: 933 ms total, 121 ms importing, 17 ms setup, 272 ms photons, 508 ms processing, 0 ms extra exporting [14/14 mappings]. Threads: 3.39 sec total, 76 ms processing.
+[2017.06.17-02.17.19:069][837]LogStaticLightingSystem: Illumination: 3.28 sec (14 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2017.06.17-02.17.19:069][837]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.0 MB streaming, 0.1 MB non-streaming), 2 textures
+[2017.06.17-02.17.19:069][837]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.06.17-02.17.19:410][837]DumpUnbuiltLightIteractions
+[2017.06.17-02.17.19:410][837]Lights with unbuilt interactions: 0
+[2017.06.17-02.17.19:410][837]
+[2017.06.17-02.17.19:410][837]Primitives with unbuilt interactions: 0
+[2017.06.17-02.17.19:449][838]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.06.17-02.17.19:449][838]MapCheck: New page: L_TestWorld - Jun 16, 2017, 12:17:19 PM
+[2017.06.17-02.17.19:493][838]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 43.47ms to complete.
+[2017.06.17-02.17.31:002][340]LogSavePackage: Save=26.94ms
+[2017.06.17-02.17.31:002][340]LogSavePackage: Moving '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Saved/L_TestWorldC64702F94AC36235B9ADE3AAA6EDCBAD.tmp' to '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/L_TestWorld.umap'
+[2017.06.17-02.17.31:005][340]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/L_TestWorld.umap
+[2017.06.17-02.17.31:032][340]LogFileHelpers: Saving map 'L_TestWorld' took 0.114
+[2017.06.17-02.17.31:035][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/L_TestWorld_BuiltData" FILE="../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/L_TestWorld_BuiltData.uasset" SILENT=true
+[2017.06.17-02.17.31:050][340]LogSavePackage: Save=12.24ms
+[2017.06.17-02.17.31:050][340]LogSavePackage: Moving '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Saved/L_TestWorld_BuiltDataC1B39EEC44FFFF73317603BBEE505066.tmp' to '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/L_TestWorld_BuiltData.uasset'
+[2017.06.17-02.17.31:053][340]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/L_TestWorld_BuiltData.uasset
+[2017.06.17-02.18.40:552][533]LogEditorViewport: Clicking Background
+[2017.06.17-02.18.53:619][ 66]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 112 classes and 0 folders.
+[2017.06.17-02.18.54:302][ 66]LogSlate: Took 0.003738 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.06.17-02.20.36:637][300]Cmd: DELETE
+[2017.06.17-02.20.36:637][300]Cmd: ACTOR DELETE
+[2017.06.17-02.20.36:637][300]LogEditorActor: Deleted Actor: Character
+[2017.06.17-02.20.36:661][300]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2017.06.17-02.22.01:755][705]LogRenderer: Reallocating scene render targets to support 912x684 NumSamples 1 (Frame:49736).
+[2017.06.17-02.22.37:306][524]BlueprintLog: New page: Compile Test_001
+[2017.06.17-02.23.08:799][883]LogSavePackage: Save=100.69ms
+[2017.06.17-02.23.08:800][883]LogSavePackage: Moving '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Saved/L_TestWorld8E719AFF4C1352030277829C0D7AA2B9.tmp' to '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/L_TestWorld.umap'
+[2017.06.17-02.23.08:803][883]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/L_TestWorld.umap
+[2017.06.17-02.23.08:836][883]LogFileHelpers: Saving map 'L_TestWorld' took 0.203
+[2017.06.17-02.23.08:854][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/Test_001" FILE="../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Scripts/Test_001.uasset" SILENT=true
+[2017.06.17-02.23.08:884][883]LogSavePackage: Save=28.43ms
+[2017.06.17-02.23.08:884][883]LogSavePackage: Moving '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Saved/Test_0011452A9064037BD2735870597DCAE3AF8.tmp' to '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Scripts/Test_001.uasset'
+[2017.06.17-02.23.08:887][883]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Scripts/Test_001.uasset
+[2017.06.17-02.24.03:666][ 34]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.06.17-02.26.29:478][881]BlueprintLog: New page: Compile L_TestWorld
+[2017.06.17-02.26.35:025][989]LogSavePackage: Save=108.93ms
+[2017.06.17-02.26.35:025][989]LogSavePackage: Moving '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Saved/L_TestWorldFF80A60147D92FA6148AFF97597988B3.tmp' to '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/L_TestWorld.umap'
+[2017.06.17-02.26.35:028][989]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/L_TestWorld.umap
+[2017.06.17-02.26.35:055][989]LogFileHelpers: Saving map 'L_TestWorld' took 0.201
+[2017.06.17-02.26.42:377][253]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.17-02.26.42:411][253]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld' with GeneratedClass '/Game/Levels/L_TestWorld.L_TestWorld_C' with ClassGeneratedBy '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld'
+[2017.06.17-02.26.42:411][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.17-02.26.42:411][253]PIE: New page: PIE session: L_TestWorld (Jun 16, 2017, 12:26:42 PM)
+[2017.06.17-02.26.42:411][253]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_TestWorld
+[2017.06.17-02.26.42:415][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003936s)
+[2017.06.17-02.26.42:417][253]LogAIModule: Creating AISystem for world L_TestWorld
+[2017.06.17-02.26.42:417][253]LogPlayLevel: PIE: World Init took: (0.002033s)
+[2017.06.17-02.26.42:418][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_TestWorld.L_TestWorld to /Game/Levels/UEDPIE_0_L_TestWorld.L_TestWorld (0.006324s)
+[2017.06.17-02.26.42:445][253]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.06.17-02.26.42:489][253]LogInit: FAudioDevice initialized.
+[2017.06.17-02.26.42:541][253]LogLoad: Game class is 'GameModeBase'
+[2017.06.17-02.26.42:545][253]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_TestWorld.L_TestWorld up for play (max tick rate 0) at 2017.06.16-19.26.42
+[2017.06.17-02.26.42:545][253]LogWorld: Bringing up level for play took: 0.000961
+[2017.06.17-02.26.42:607][253]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2017.06.17-02.26.42:610][253]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_L_TestWorld -0.497
+[2017.06.17-02.26.42:611][253]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld' with GeneratedClass '/Game/Levels/L_TestWorld.L_TestWorld_C' with ClassGeneratedBy '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld'
+[2017.06.17-02.27.22:619][ 35]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld' with GeneratedClass '/Game/Levels/L_TestWorld.L_TestWorld_C' with ClassGeneratedBy '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld'
+[2017.06.17-02.27.22:682][ 35]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld' with GeneratedClass '/Game/Levels/L_TestWorld.L_TestWorld_C' with ClassGeneratedBy '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld'
+[2017.06.17-02.30.15:306][881]BlueprintLog: New page: Compile L_TestWorld
+[2017.06.17-02.32.03:876][369]BlueprintLog: New page: Compile Test_001
+[2017.06.17-02.32.03:881][369]LogBlueprint:Error: [Compiler Test_001] Error This blueprint (self) is not a DefaultPawn, therefore ' Target ' must have a connection.
+[2017.06.17-02.32.03:881][369]LogBlueprint:Error: [Compiler Test_001] Error This blueprint (self) is not a WidgetInteractionComponent, therefore ' Target ' must have a connection.
+[2017.06.17-02.32.04:215][369]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a DefaultPawn, therefore ' Target ' must have a connection.
+[2017.06.17-02.32.04:216][369]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a WidgetInteractionComponent, therefore ' Target ' must have a connection.
+[2017.06.17-02.32.04:217][369]LogBlueprint:Warning: [Compiler Test_001] Warning [1915.82] Compile of Test_001 failed. 2 Fatal Issue(s) 0 Warning(s) [in 340 ms] (/Game/Scripts/Test_001.Test_001)
+[2017.06.17-02.33.00:967][638]BlueprintLog: New page: Compile Test_001
+[2017.06.17-02.33.00:972][638]LogBlueprint:Error: [Compiler Test_001] Error This blueprint (self) is not a DefaultPawn, therefore ' Target ' must have a connection.
+[2017.06.17-02.33.00:972][638]LogBlueprint:Error: [Compiler Test_001] Error This blueprint (self) is not a WidgetInteractionComponent, therefore ' Target ' must have a connection.
+[2017.06.17-02.33.01:149][638]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a DefaultPawn, therefore ' Target ' must have a connection.
+[2017.06.17-02.33.01:149][638]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a WidgetInteractionComponent, therefore ' Target ' must have a connection.
+[2017.06.17-02.33.01:149][638]LogBlueprint:Warning: [Compiler Test_001] Warning [1972.75] Compile of Test_001 failed. 2 Fatal Issue(s) 0 Warning(s) [in 181 ms] (/Game/Scripts/Test_001.Test_001)
+[2017.06.17-02.34.21:650][327]BlueprintLog: New page: Compile Test_001
+[2017.06.17-02.34.32:215][613]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.06.17-02.34.32:274][614]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DatMonstaGame
+
+[2017.06.17-02.34.32:274][614]LogTemp:Display: CWD: C:\Program Files (x86)\Epic Games\4.15\Engine\Binaries\DotNET\IOS
+
+[2017.06.17-02.34.32:274][614]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic Games\4.15
+
+[2017.06.17-02.34.32:274][614]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic Games\4.15\Engine\Binaries\DotNET\IOS
+
+[2017.06.17-02.34.32:298][615]LogTemp:Display: BranchPath = DESKTOP-3FUPTJC/C/Program Files (x86)/Epic Games/4.15/Engine/Binaries --- GameBranchPath = DESKTOP-3FUPTJC/C/Program Files (x86)/Epic Games/4.15/Engine/Binaries
+
+[2017.06.17-02.34.32:318][615]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Justin\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.06.17-02.34.32:318][615]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.06.17-02.34.32:318][615]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.06.17-02.34.32:318][615]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.06.17-02.34.32:318][615]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.06.17-02.34.32:318][615]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.06.17-02.35.53:663][616]BlueprintLog: New page: Compile Test_001
+[2017.06.17-02.35.53:668][616]LogBlueprint:Error: [Compiler Test_001] Error This blueprint (self) is not a DefaultPawn, therefore ' Target ' must have a connection.
+[2017.06.17-02.35.53:845][616]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a DefaultPawn, therefore ' Target ' must have a connection.
+[2017.06.17-02.35.53:846][616]LogBlueprint:Warning: [Compiler Test_001] Warning [2145.45] Compile of Test_001 failed. 1 Fatal Issue(s) 0 Warning(s) [in 182 ms] (/Game/Scripts/Test_001.Test_001)
+[2017.06.17-02.38.32:708][693]BlueprintLog: New page: Compile Test_001
+[2017.06.17-02.38.32:712][693]LogBlueprint:Error: [Compiler Test_001] Error This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2017.06.17-02.38.32:894][693]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2017.06.17-02.38.32:895][693]LogBlueprint:Warning: [Compiler Test_001] Warning [2304.50] Compile of Test_001 failed. 1 Fatal Issue(s) 0 Warning(s) [in 186 ms] (/Game/Scripts/Test_001.Test_001)
+[2017.06.17-02.38.53:790][149]BlueprintLog: New page: Compile Test_001
+[2017.06.17-02.39.05:104][712]BlueprintLog: New page: Compile Test_001
+[2017.06.17-02.39.12:159][848]LogSavePackage: Save=116.57ms
+[2017.06.17-02.39.12:159][848]LogSavePackage: Moving '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Saved/L_TestWorld7572DB454FD5B7E4E95EA0B2955E2287.tmp' to '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/L_TestWorld.umap'
+[2017.06.17-02.39.12:163][848]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Levels/L_TestWorld.umap
+[2017.06.17-02.39.12:199][848]LogFileHelpers: Saving map 'L_TestWorld' took 0.227
+[2017.06.17-02.39.12:218][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/Test_001" FILE="../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Scripts/Test_001.uasset" SILENT=true
+[2017.06.17-02.39.12:252][848]LogSavePackage: Save=28.86ms
+[2017.06.17-02.39.12:252][848]LogSavePackage: Moving '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Saved/Test_001E52FC428490DCBF7E42E41B41776859B.tmp' to '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Scripts/Test_001.uasset'
+[2017.06.17-02.39.12:256][848]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Scripts/Test_001.uasset
+[2017.06.17-02.39.14:537][924]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.17-02.39.14:561][924]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld' with GeneratedClass '/Game/Levels/L_TestWorld.L_TestWorld_C' with ClassGeneratedBy '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld'
+[2017.06.17-02.39.14:561][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.17-02.39.14:561][924]PIE: New page: PIE session: L_TestWorld (Jun 16, 2017, 12:39:14 PM)
+[2017.06.17-02.39.14:561][924]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_TestWorld
+[2017.06.17-02.39.14:564][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002652s)
+[2017.06.17-02.39.14:564][924]LogAIModule: Creating AISystem for world L_TestWorld
+[2017.06.17-02.39.14:565][924]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2017.06.17-02.39.14:565][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_TestWorld.L_TestWorld to /Game/Levels/UEDPIE_0_L_TestWorld.L_TestWorld (0.003767s)
+[2017.06.17-02.39.14:591][924]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.06.17-02.39.14:636][924]LogInit: FAudioDevice initialized.
+[2017.06.17-02.39.14:669][924]LogLoad: Game class is 'GameModeBase'
+[2017.06.17-02.39.14:670][924]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_TestWorld.L_TestWorld up for play (max tick rate 0) at 2017.06.16-19.39.14
+[2017.06.17-02.39.14:670][924]LogWorld: Bringing up level for play took: 0.000747
+[2017.06.17-02.39.14:672][924]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_L_TestWorld -0.435
+[2017.06.17-02.39.14:673][924]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld' with GeneratedClass '/Game/Levels/L_TestWorld.L_TestWorld_C' with ClassGeneratedBy '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld'
+[2017.06.17-02.39.27:693][122]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld' with GeneratedClass '/Game/Levels/L_TestWorld.L_TestWorld_C' with ClassGeneratedBy '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld'
+[2017.06.17-02.39.27:763][122]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld' with GeneratedClass '/Game/Levels/L_TestWorld.L_TestWorld_C' with ClassGeneratedBy '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld'
+[2017.06.17-02.39.39:270][829]BlueprintLog: New page: Compile Test_001
+[2017.06.17-02.39.42:162][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/Test_001" FILE="../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Scripts/Test_001.uasset" SILENT=true
+[2017.06.17-02.39.42:194][900]LogSavePackage: Save=30.50ms
+[2017.06.17-02.39.42:194][900]LogSavePackage: Moving '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Saved/Test_001AA1A2B0E49A0E8E3FE3C7087E151C51E.tmp' to '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Scripts/Test_001.uasset'
+[2017.06.17-02.39.42:198][900]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Scripts/Test_001.uasset
+[2017.06.17-02.39.44:075][959]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.17-02.39.44:092][959]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld' with GeneratedClass '/Game/Levels/L_TestWorld.L_TestWorld_C' with ClassGeneratedBy '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld'
+[2017.06.17-02.39.44:092][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.17-02.39.44:092][959]PIE: New page: PIE session: L_TestWorld (Jun 16, 2017, 12:39:44 PM)
+[2017.06.17-02.39.44:092][959]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_TestWorld
+[2017.06.17-02.39.44:095][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002859s)
+[2017.06.17-02.39.44:095][959]LogAIModule: Creating AISystem for world L_TestWorld
+[2017.06.17-02.39.44:095][959]LogPlayLevel: PIE: World Init took: (0.000601s)
+[2017.06.17-02.39.44:096][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_TestWorld.L_TestWorld to /Game/Levels/UEDPIE_0_L_TestWorld.L_TestWorld (0.003661s)
+[2017.06.17-02.39.44:125][959]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.06.17-02.39.44:168][959]LogInit: FAudioDevice initialized.
+[2017.06.17-02.39.44:198][959]LogLoad: Game class is 'GameModeBase'
+[2017.06.17-02.39.44:199][959]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_TestWorld.L_TestWorld up for play (max tick rate 0) at 2017.06.16-19.39.44
+[2017.06.17-02.39.44:199][959]LogWorld: Bringing up level for play took: 0.000857
+[2017.06.17-02.39.44:201][959]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_L_TestWorld 1.093
+[2017.06.17-02.39.44:201][959]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld' with GeneratedClass '/Game/Levels/L_TestWorld.L_TestWorld_C' with ClassGeneratedBy '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld'
+[2017.06.17-02.39.49:035][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld' with GeneratedClass '/Game/Levels/L_TestWorld.L_TestWorld_C' with ClassGeneratedBy '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld'
+[2017.06.17-02.39.49:116][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld' with GeneratedClass '/Game/Levels/L_TestWorld.L_TestWorld_C' with ClassGeneratedBy '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld'
+[2017.06.17-02.39.58:029][432]BlueprintLog: New page: Compile Test_001
+[2017.06.17-02.40.01:348][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/Test_001" FILE="../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Scripts/Test_001.uasset" SILENT=true
+[2017.06.17-02.40.01:378][510]LogSavePackage: Save=27.74ms
+[2017.06.17-02.40.01:378][510]LogSavePackage: Moving '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Saved/Test_0012895921442550791F1C84D986D82CCCD.tmp' to '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Scripts/Test_001.uasset'
+[2017.06.17-02.40.01:381][510]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Content/Scripts/Test_001.uasset
+[2017.06.17-02.40.04:147][610]LogTemp: Repeting last play command: Selected Viewport
+[2017.06.17-02.40.04:168][610]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld' with GeneratedClass '/Game/Levels/L_TestWorld.L_TestWorld_C' with ClassGeneratedBy '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld'
+[2017.06.17-02.40.04:168][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.06.17-02.40.04:168][610]PIE: New page: PIE session: L_TestWorld (Jun 16, 2017, 12:40:04 PM)
+[2017.06.17-02.40.04:168][610]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_TestWorld
+[2017.06.17-02.40.04:171][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002575s)
+[2017.06.17-02.40.04:171][610]LogAIModule: Creating AISystem for world L_TestWorld
+[2017.06.17-02.40.04:171][610]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2017.06.17-02.40.04:171][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_TestWorld.L_TestWorld to /Game/Levels/UEDPIE_0_L_TestWorld.L_TestWorld (0.003280s)
+[2017.06.17-02.40.04:196][610]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.06.17-02.40.04:237][610]LogInit: FAudioDevice initialized.
+[2017.06.17-02.40.04:270][610]LogLoad: Game class is 'GameModeBase'
+[2017.06.17-02.40.04:272][610]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_TestWorld.L_TestWorld up for play (max tick rate 0) at 2017.06.16-19.40.04
+[2017.06.17-02.40.04:272][610]LogWorld: Bringing up level for play took: 0.000712
+[2017.06.17-02.40.04:273][610]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_L_TestWorld -0.835
+[2017.06.17-02.40.04:273][610]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld' with GeneratedClass '/Game/Levels/L_TestWorld.L_TestWorld_C' with ClassGeneratedBy '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld'
+[2017.06.17-02.40.07:442][800]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld' with GeneratedClass '/Game/Levels/L_TestWorld.L_TestWorld_C' with ClassGeneratedBy '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld'
+[2017.06.17-02.40.07:521][800]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld' with GeneratedClass '/Game/Levels/L_TestWorld.L_TestWorld_C' with ClassGeneratedBy '/Game/Levels/L_TestWorld.L_TestWorld:PersistentLevel.L_TestWorld'
+[2017.06.17-02.49.24:790][200]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.06.17-02.49.33:849][227]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/L_TestWorld' took 0.022
+[2017.06.17-02.49.33:868][227]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Scripts/Test_001] ([1] browsable assets)...
+[2017.06.17-02.49.33:940][227]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Scripts/Test_001.Test_001]
+[2017.06.17-02.49.33:940][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/Scripts/Test_001]
+[2017.06.17-02.49.33:982][227]LogSavePackage: Save=31.04ms
+[2017.06.17-02.49.33:982][227]LogSavePackage: Moving '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Saved/Test_001_Auto1471B37894AE570B0056E149BB83C3A50.tmp' to '../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Saved/Autosaves/Game/Scripts/Test_001_Auto1.uasset'
+[2017.06.17-02.49.33:983][227]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Justin/Documents/3eight_Interactive/DatMonstaGame/Saved/Autosaves/Game/Scripts/Test_001_Auto1.uasset
+[2017.06.17-02.49.33:983][227]LogFileHelpers: Auto-saving content packages took 0.116
